@@ -1,0 +1,2176 @@
+English translation by the developers
+== Deutsche Übersetzung von fokkonaut
+
+/cmdlist will show a list of all chat commands
+== /cmdlist zeigt eine Liste aller Chat-Befehle
+
+/help + any command will show you the help for this command
+== /help + beliebiger Befehl zeigt dir die Hilfe für diesen Befehl
+
+Example /help settings will display the help about /settings
+== Beispiel: /help settings zeigt die Hilfe zu /settings an
+
+Usage
+== Verwendung
+
+Command is either unknown or you have given a blank command without any parameters.
+== Befehl ist entweder unbekannt oder du hast einen leeren Befehl ohne Parameter eingegeben.
+
+You can't join the spectators while you are in survival
+== Du kannst den Zuschauern nicht beitreten, während du in Survival bist
+
+Timeout code has to be at least 8 characters long, make sure to use a safe code.
+== Der Timeout-Code muss mindestens 8 Zeichen lang sein. Achte darauf, einen sicheren Code zu verwenden.
+
+You will now see all tees on this server, no matter the distance
+== Du siehst jetzt alle Tees auf diesem Server, unabhängig von der Entfernung
+
+You will no longer see all tees on this server
+== Du siehst nicht mehr alle Tees auf diesem Server
+
+Score Format
+== Punkteformat
+
+Use '/score <format>' to change the displayed score.
+== Verwende '/score <format>', um die angezeigte Punktzahl zu ändern.
+
+Accounts
+== Konten
+
+Accounts are used to save your stats.
+== Konten werden verwendet, um deine Statistiken zu speichern.
+
+You can farm money and buy things in the shop, kill tees and get points.
+== Du kannst Geld farmen und Dinge im Shop kaufen, Tees töten und Punkte sammeln.
+
+These stats will be saved inside of your account.
+== Diese Statistiken werden in deinem Konto gespeichert.
+
+You can create an account using '/register'.
+== Du kannst ein Konto mit '/register' erstellen.
+
+Once you are logged in, you can use this command again to see information about your account.
+== Sobald du eingeloggt bist, kannst du diesen Befehl erneut verwenden, um Informationen über dein Konto zu sehen.
+
+Account Info
+== Kontoinformationen
+
+Account Name
+== Kontoname
+
+Registered
+== Registriert am
+
+{/account}
+until
+== gültig bis
+
+not bought
+== nicht gekauft
+
+Portal Rifle
+== Portal-Gewehr
+
+Contact
+== Kontakt
+
+Player not found
+== Spieler nicht gefunden
+
+Stats
+== Statistiken
+
+Level
+== Level
+
+(not logged in)
+== (nicht eingeloggt)
+
+Bank
+== Bank
+
+Wallet
+== Geldbörse
+
+Police
+== Polizei
+
+Collectables
+== Sammelgegenstände
+
+Taser battery
+== Taser-Batterie
+
+Portal Battery
+== Portal-Batterie
+
+Points
+== Punkte
+
+Kills
+== Kills
+
+Deaths
+== Tode
+
+Games won
+== Gewonnene Spiele
+
+Profit
+== Gewinn
+
+Wins
+== Siege
+
+Toggle
+== Umschalten
+
+Spooky Ghost
+== Gruselgeist
+
+Portal Blocker
+== Portal-Blocker
+
+Spooky ghost (gun) and portal blocker (hammer) can be enabled like the following:
+== Gruselgeist (Pistole) und Portal-Blocker (Hammer) können wie folgt aktiviert werden:
+
+Hold TAB (or other scoreboard key) and during that fire your weapon two times.
+== Halte TAB (oder andere Scoreboardtaste) gedrückt und schieße währenddessen zweimal mit deiner Waffe.
+
+With VIP Classic you get an XP and money boost of '+2' per second, aswell as access to the following commands:
+== Mit VIP Classic erhältst du einen XP- und Geldboost von '+2' pro Sekunde, sowie Zugang zu folgenden Befehlen:
+
+VIP+ includes every feature of VIP Classic.
+== VIP+ beinhaltet alle Funktionen von VIP Classic.
+
+Additionally to that you can enter the VIP+ room to farm safely there, aswell as you gain access to the following commands:
+== Zusätzlich kannst du den VIP+-Raum betreten, um dort sicher zu farmen, sowie auf folgende Befehle zugreifen:
+
+Spawn Weapons
+== Spawn-Waffen
+
+You can buy spawn weapons in the shop.
+== Du kannst Spawn-Waffen im Shop kaufen.
+
+You will have the bought weapon on spawn.
+== Du wirst die gekaufte Waffe beim Spawnen haben.
+
+You can have max. 5 bullets per weapon.
+== Du kannst maximal 5 Kugeln pro Waffe haben.
+
+Each bullet costs 600.000 money.
+== Jede Kugel kostet 600.000 Geld.
+
+Your Spawn Weapons
+== Deine Spawn-Waffen
+
+Spawn shotgun bullets
+== Spawn-Schrotflintenkugeln
+
+Spawn grenade bullets
+== Spawn-Granatenkugeln
+
+Spawn rifle bullets
+== Spawn-Gewehrkugeln
+
+Accounts are not supported on this server
+== Konten werden auf diesem Server nicht unterstützt
+
+The username is too long or too short
+== Der Benutzername ist zu lang oder zu kurz
+
+Your username can only consist of letters and numbers
+== Dein Benutzername darf nur aus Buchstaben und Zahlen bestehen
+
+The passwords need to be identical
+== Die Passwörter müssen identisch sein
+
+The password is too long or too short
+== Das Passwort ist zu lang oder zu kurz
+
+Username already exists
+== Benutzername existiert bereits
+
+Successfully registered an account, you can login now
+== Konto erfolgreich registriert, du kannst dich jetzt einloggen
+
+Set a security pin to avoid account stealing. For more info, say '/pin'
+== Setze eine Sicherheits-PIN, um Kontodiebstahl zu vermeiden. Für mehr Informationen, verwende '/pin'
+
+You are not logged in
+== Du bist nicht eingeloggt
+
+You can't logout in a minigame
+== Du kannst dich in einem Minispiel nicht ausloggen
+
+You can't logout while being arrested
+== Du kannst dich nicht ausloggen, während du im Gefängnis bist
+
+You can't logout while being searched by the police
+== Du kannst dich nicht ausloggen, während du von der Polizei gesucht wirst
+
+Kill logout is activated, kill within %d seconds to logout
+== Kill-Logout ist aktiviert, spawne innerhalb von %d Sekunden neu, um dich auszuloggen
+
+You are not verified, please enter your security pin using '/pin'
+== Du bist nicht verifiziert, bitte gib deine Sicherheits-PIN mit '/pin' ein
+
+Wrong password
+== Falsches Passwort
+
+Successfully changed password
+== Passwort erfolgreich geändert
+
+You need to enter a way to contact you, for example: Discord, E-Mail, Skype, etc.
+== Du musst eine Kontaktmöglichkeit angeben, zum Beispiel: Discord, E-Mail, Skype, etc.
+
+To see your current contact information, use '/account'
+== Um deine aktuellen Kontaktinformationen zu sehen, verwende '/account'
+
+Example: '/contact Discord: fokkonaut'
+== Beispiel: '/contact Discord: fokkonaut'
+
+Successfully updated contact information, check '/account'
+== Kontaktinformationen erfolgreich aktualisiert, überprüfe '/account'
+
+SECURITY PIN
+== SICHERHEITS-PIN
+
+You should set a security pin to avoid account stealing. The pin itself has to be a 4-digit long number code.
+== Du solltest eine Sicherheits-PIN setzen, um Kontodiebstahl zu vermeiden. Die PIN selbst muss ein 4-stelliger Zahlencode sein.
+
+This pin will be required to change your contact information or your password.
+== Diese PIN wird benötigt, um deine Kontaktinformationen oder dein Passwort zu ändern.
+
+If your account is not secured yet, you can set a pin with '/pin <new-pin>'.
+== Wenn dein Konto noch nicht gesichert ist, kannst du eine PIN mit '/pin <neue-pin>' setzen.
+
+If you want to change your pin, you first need to verify using '/pin <account-pin>'.
+== Wenn du deine PIN ändern möchtest, musst du dich zuerst mit '/pin <konto-pin>' verifizieren.
+
+After verifying, you can set a new pin with '/pin <new-pin>'.
+== Nach der Verifizierung kannst du eine neue PIN mit '/pin <neue-pin>' setzen.
+
+You have to enter a 4-digit number
+== Du musst eine 4-stellige Zahl eingeben
+
+Successfully set the security pin
+== Sicherheits-PIN erfolgreich gesetzt
+
+Verification failed
+== Verifizierung fehlgeschlagen
+
+Verification successful
+== Verifizierung erfolgreich
+
+Successfully changed the security pin
+== Sicherheits-PIN erfolgreich geändert
+
+You have to be inside of a bank to pay money from your bank account to others
+== Du musst in einer Bank sein, um Geld von deinem Bankkonto an andere zu überweisen
+
+You can't pay money that frequently
+== Du kannst nicht so häufig Geld überweisen
+
+That player doesn't exist
+== Dieser Spieler existiert nicht
+
+You can't pay money to yourself
+== Du kannst dir selbst kein Geld überweisen
+
+That player is not logged in
+== Dieser Spieler ist nicht eingeloggt
+
+You don't have enough money
+== Du hast nicht genug Geld
+
+You can't pay nothing
+== Du kannst nichts überweisen
+
+You paid %lld money from your bank account to '%s'
+== Du hast %lld Geld von deinem Bankkonto an '%s' überwiesen
+
+You got %lld money to your bank account from '%s'
+== Du hast %lld Geld auf dein Bankkonto von '%s' erhalten
+
+Invalid argument
+== Ungültiges Argument
+
+You can't drop nothing
+== Du kannst nichts fallen lassen
+
+You can't drop money bags over 100.000
+== Du kannst keine Geldbeutel über 100.000 fallen lassen
+
+You don't have enough money in your wallet
+== Du hast nicht genug Geld in deiner Brieftasche
+
+Drop money: '/money drop <amount>'
+== Geld fallen lassen: '/money drop <betrag>'
+
+You can't drop more than 100 portal batteries at the same time
+== Du kannst nicht mehr als 100 Portal-Batterien gleichzeitig fallen lassen
+
+You don't have enough portal batteries
+== Du hast nicht genug Portal-Batterien
+
+You can collect portal batteries in the map, which lets you use the portal rifle.
+== Du kannst Portal-Batterien auf der Karte sammeln, die dir die Nutzung des Portal-Gewehrs ermöglichen.
+
+The portal rifle can shoot two portals at cursor position, which tees, flags and weapons can use to travel between them.
+== Mit dem Portal-Gewehr kannst du zwei Portale an der Cursorposition platzieren, durch die Tees, Flaggen und Waffen reisen können.
+
+Your portal stats
+== Deine Portal-Statistiken
+
+Drop portal battery: '/portal drop <amount>'
+== Portal-Batterie fallen lassen: '/portal drop <anzahl>'
+
+You are not VIP
+== Du bist kein VIP
+
+You don't have a room key
+== Du hast keinen Raumschlüssel
+
+This player has a key already
+== Dieser Spieler hat bereits einen Schlüssel
+
+This player got invited already
+== Dieser Spieler wurde bereits eingeladen
+
+'%s' invited you to the room
+== '%s' hat dich in den Raum eingeladen
+
+You invited '%s' to the room
+== Du hast '%s' in den Raum eingeladen
+
+You can't kick others without a key
+== Du kannst andere nicht ohne Schlüssel rauswerfen
+
+You can't kick a player with a key
+== Du kannst keinen Spieler mit Schlüssel rauswerfen
+
+This player is not invited
+== Dieser Spieler ist nicht eingeladen
+
+'%s' kicked you out of room
+== '%s' hat dich aus dem Raum geworfen
+
+You kicked '%s' out of room
+== Du hast '%s' aus dem Raum geworfen
+
+Teleporting to spawn is disabled
+== Teleportieren zum Spawn ist deaktiviert
+
+You can't use this command in minigames
+== Du kannst diesen Befehl in Minispielen nicht verwenden
+
+You can't use this command while being arrested
+== Du kannst diesen Befehl nicht verwenden, während du verhaftet bist
+
+You can't use this command while frozen
+== Du kannst diesen Befehl nicht verwenden, während du eingefroren bist
+
+You lost 50.000 money for teleporting to spawn
+== Du hast 50.000 Geld verloren, um zum Spawn zu teleportieren
+
+Plot subcommands
+== Plot-Unterbefehle
+
+For detailed info, type '/plot help <command>'
+== Für detaillierte Informationen, gib '/plot help <befehl>' ein
+
+Hold SPACE while editing for more control infos
+== Halte SPACE während des Bearbeitens gedrückt, um mehr Steuerungsinfos zu erhalten
+
+Clears all objects of your plot
+== Entfernt alle Objekte deines Grundstücks
+
+Starts an auction for your plot, everyone can buy it using the buy command
+== Startet eine Auktion für dein Grundstück, jeder kann es mit dem Kaufbefehl erwerben
+
+Buys a plot if the given player is running a plot auction
+== Kauft ein Grundstück, wenn der angegebene Spieler eine Grundstücksauktion durchführt
+
+Lets you respawn at your plot
+== Lässt dich an deinem Grundstück respawnen
+
+Cancels the current running auction on your plot
+== Bricht die laufende Auktion für dein Grundstück ab
+
+Swaps plot with given player
+== Tauscht das Grundstück mit dem angegebenen Spieler
+
+Shows a list with all currently open plot auctions and swap offers
+== Zeigt eine Liste mit allen derzeit offenen Grundstücksauktionen und Tauschangeboten
+
+This player doesn't exists
+== Dieser Spieler existiert nicht
+
+You can't buy your own plot
+== Du kannst dein eigenes Grundstück nicht kaufen
+
+This player doesn't sell a plot
+== Dieser Spieler verkauft kein Grundstück
+
+You already have a plot
+== Du hast bereits ein Grundstück
+
+The price you entered does not match the offer
+== Der eingegebene Preis stimmt nicht mit dem Angebot überein
+
+Your IP address already owns one plot
+== Deine IP-Adresse besitzt bereits ein Grundstück
+
+Plot %d has been bought by '%s'
+== Grundstück %d wurde von '%s' gekauft
+
+You bought plot %d from %s
+== Du hast Grundstück %d von %s gekauft
+
+%s bought your plot, the money is moved to your bank account
+== %s hat dein Grundstück gekauft, das Geld wurde auf dein Bankkonto überwiesen
+
+Plot list
+== Grundstücksliste
+
+Buy from auction: '/plot buy <price> <playername>'
+== Von Auktion kaufen: '/plot buy <preis> <spielername>'
+
+Swap with offer: '/plot swap <playername>'
+== Mit Angebot tauschen: '/plot swap <spielername>'
+
+List of all plot auctions and swap offers:
+== Liste aller Grundstücksauktionen und Tauschangebote:
+
+There are currently no auctions or swap offers
+== Es gibt derzeit keine Auktionen oder Tauschangebote
+
+You need a plot to use this command
+== Du benötigst ein Grundstück, um diesen Befehl zu verwenden
+
+You can't sell your plot when being wanted
+== Du kannst dein Grundstück nicht verkaufen, wenn du gesucht wirst
+
+You can only do auctions once a minute
+== Du kannst nur einmal pro Minute eine Auktion durchführen
+
+You already sell your plot
+== Du verkaufst dein Grundstück bereits
+
+You need to enter a valid price
+== Du musst einen gültigen Preis eingeben
+
+'%s' started an auction on plot %d for %d money (plot expires on %s)
+== '%s' hat eine Auktion für Grundstück %d für %d Geld gestartet (Grundstück läuft am %s ab)
+
+Use '/plot buy %d %s' to buy the plot
+== Verwende '/plot buy %d %s', um das Grundstück zu kaufen
+
+You can't swap plots when being wanted
+== Du kannst Grundstücke nicht tauschen, wenn du gesucht wirst
+
+You can't swap with yourself
+== Du kannst nicht mit dir selbst tauschen
+
+This player doesn't own a plot
+== Dieser Spieler besitzt kein Grundstück
+
+You can only swap once a minute
+== Du kannst nur einmal pro Minute tauschen
+
+You swapped plots with '%s'
+== Du hast Grundstücke mit '%s' getauscht
+
+Offer to swap plots was sent to '%s'
+== Angebot zum Tausch der Grundstücke wurde an '%s' gesendet
+
+'%s' has offered to swap plots with you, type '/plot swap %s' to swap
+== '%s' hat angeboten, Grundstücke mit dir zu tauschen, gib '/plot swap %s' ein, um zu tauschen
+
+Page
+== Seite
+
+Police Info
+== Polizei-Info
+
+[POLICE %d]
+== [POLIZEIRANG %d]
+
+Level needed to buy
+== Benötigtes Level zum Kaufen
+
+Benefits:
+== Vorteile:
+
+- The police bot will help you
+== - Der Polizei-Bot wird dir helfen
+
+- taser license ('/taser')
+== - Taser-Lizenz ('/taser')
+
+- Officers can taser a plot door of a wanted player to deal damage and destroy it
+== - Beamte können die Grundstückstür eines gesuchten Spielers tasern, um Schaden zu verursachen und sie zu zerstören
+
+- Taser will destroy plot objects of a wanted player
+== - Taser zerstört Grundstücksobjekte eines gesuchten Spielers
+
+[GENERAL INFORMATION]
+== [ALLGEMEINE INFORMATIONEN]
+
+Police ranks can be bought in shop.
+== Polizeiränge können im Shop gekauft werden.
+
+There are multiple police ranks, each cost 100.000 money.
+== Es gibt mehrere Polizeiränge, jeder kostet 100.000 Geld.
+
+The policebot will help every police officer.
+== Der Polizei-Bot hilft jedem Polizeibeamten.
+
+Every police rank will give you more benefits.
+== Jeder Polizeirang gibt dir mehr Vorteile.
+
+Use '/police <page>' for information about other ranks
+== Verwende '/police <seite>' für Informationen über andere Ränge
+
+You can't mute yourself
+== Du kannst dich nicht selbst stumm schalten
+
+muted
+== stumm geschaltet
+
+unmuted
+== entstummt
+
+Map Designs
+== Karten-Designs
+
+If you have your dummy connected, you need to reconnect it after the design change so it can get back it's state.
+== Wenn du deinen Dummy verbunden hast, musst du ihn nach der Design-Änderung neu verbinden, damit er seinen Status wiederherstellen kann.
+
+You can set one of the following designs by using '/design <name>':
+== Du kannst eines der folgenden Designs mit '/design <name>' festlegen:
+
+Invalid language
+== Ungültige Sprache
+
+Successfully changed language to %s
+== Sprache erfolgreich auf %s geändert
+
+Server Language
+== Server-Sprache
+
+Current language
+== Aktuelle Sprache
+
+You can set one of the following languages for server-side translation by using '/language <option>':
+== Du kannst eine der folgenden Sprachen für die serverseitige Übersetzung mit '/language <option>' festlegen:
+
+This chat language is already selected
+== Diese Chat-Sprache ist bereits ausgewählt
+
+Successfully updated chat language
+== Chat-Sprache erfolgreich aktualisiert
+
+Chat Language
+== Chat-Sprache
+
+You can set one of the following languages by using '/chatlanguage <option>':
+== Du kannst eine der folgenden Sprachen mit '/chatlanguage <option>' festlegen:
+
+This server does not have a linked Discord server
+== Dieser Server hat keinen verknüpften Discord-Server
+
+Minigames
+== Minispiele
+
+You can join any minigame using '/<minigame>'
+== Du kannst jedem Minispiel mit '/<minispiel>' beitreten
+
+To leave a minigame, just type '/leave'
+== Um ein Minispiel zu verlassen, gib einfach '/leave' ein
+
+Here is a list of all minigames:
+== Hier ist eine Liste aller Minispiele:
+
+Money
+== Geld
+
+Spree
+== Serie
+
+Durák Wins
+== Durák-Siege
+
+Durák Profit
+== Durák-Gewinn
+
+You need to be police level 2 to use this command
+== Du musst Polizei Level 2 sein, um diesen Befehl zu verwenden
+
+This player is a police officer
+== Dieser Spieler ist ein Polizeibeamter
+
+This player is a police helper already
+== Dieser Spieler ist bereits ein Polizeihelfer
+
+'%s' added you to the police helpers
+== '%s' hat dich zu den Polizeihelfern hinzugefügt
+
+You added '%s' to the police helpers
+== Du hast '%s' zu den Polizeihelfern hinzugefügt
+
+This player is not a police helper
+== Dieser Spieler ist kein Polizeihelfer
+
+'%s' removed you from the police helpers
+== '%s' hat dich aus den Polizeihelfern entfernt
+
+You removed '%s' from the police helpers
+== Du hast '%s' aus den Polizeihelfern entfernt
+
+WANTED
+== POLIZEILICH GESUCHT
+
+Listing all players that are wanted by the police:
+== Auflistung aller Spieler, die von der Polizei gesucht werden:
+
+1 wanted player
+== 1 gesuchter Spieler
+
+%d wanted players
+== %d gesuchte Spieler
+
+There are no wanted players right now
+== Es gibt derzeit keine gesuchten Spieler
+
+You don't have enough taser batteries
+== Du hast nicht genug Taser-Batterien
+
+Taser
+== Taser
+
+Police officers with level 3 or higher get a taser license.
+== Polizeibeamte ab Level 3 erhalten eine Taser-Lizenz.
+
+The taser is a rifle that freezes players for a short time.
+== Der Taser ist ein Gewehr, das Spieler für kurze Zeit einfriert.
+
+You can pick up the taser and taser batteries throughout the map.
+== Du kannst den Taser und Taser-Batterien auf der gesamten Karte aufsammeln.
+
+Your taser stats
+== Deine Taser-Statistiken
+
+Taser level
+== Taser-Stufe
+
+Price for the next level
+== Preis für das nächste Level
+
+Freeze time: %.2f seconds
+== Einfrierzeit: %.2f Sekunden
+
+Taser shield
+== Taser-Schild
+
+Drop taser battery: '/taser drop <amount>'
+== Taser-Batterie fallen lassen: '/taser drop <anzahl>'
+
+'%s' has been muted for %d seconds (%s)
+== '%s' wurde für %d Sekunden stumm geschaltet (%s)
+
+'%s' has been muted for %d seconds
+== '%s' wurde für %d Sekunden stumm geschaltet
+
+Your taser shield has been set to %d%%. Use '/taser' to check later.
+== Dein Taser-Schild wurde auf %d%% gesetzt. Verwende '/taser', um es später zu überprüfen.
+
+You have been logged out by an admin
+== Du wurdest von einem Administrator ausgeloggt
+
+You have been logged out due to account deactivation by an admin
+== Du wurdest aufgrund der Kontodeaktivierung durch einen Administrator ausgeloggt
+
+You are now in no-bonus area mode
+== Du bist jetzt im Kein-Bonus-Bereich
+
+You are no longer in no-bonus area mode
+== Du bist nicht mehr im Kein-Bonus-Bereich
+
+You were arrested for %d seconds
+== Du wurdest für %d Sekunden ins Gefängnis gesperrt
+
+You lost your plot
+== Du hast dein Grundstück verloren
+
+You are now owner of plot %d
+== Du bist jetzt Besitzer von Grundstück %d
+
+Objects
+== Objekte
+
+Please enter the name for this preset into the chat
+== Bitte gib den Namen für diese Voreinstellung in den Chat ein
+
+Please enter the name of the wanted preset into the chat
+== Bitte gib den Namen der gewünschten Voreinstellung in den Chat ein
+
+Couldn't save preset '%s', a preset with that name already exists
+== Konnte Voreinstellung '%s' nicht speichern, eine Voreinstellung mit diesem Namen existiert bereits
+
+Successfully saved preset '%s'
+== Voreinstellung '%s' erfolgreich gespeichert
+
+Couldn't load preset '%s'
+== Konnte Voreinstellung '%s' nicht laden
+
+Successfully loaded preset '%s'
+== Voreinstellung '%s' erfolgreich geladen
+
+Preset saving aborted
+== Speichern der Voreinstellung abgebrochen
+
+Preset loading aborted
+== Laden der Voreinstellung abgebrochen
+
+Vote aborted
+== Abstimmung abgebrochen
+
+Vote passed
+== Abstimmung angenommen
+
+Vote failed
+== Abstimmung fehlgeschlagen
+
+Your plot is no longer subject to a search warrant and can no longer be destroyed
+== Dein Grundstück unterliegt keinem Durchsuchungsbefehl mehr und kann nicht mehr zerstört werden
+
+'%s' entered and joined the game
+== '%s' ist dem Spiel beigetreten
+
+'%s' entered and joined the spectators
+== '%s' ist eingetreten und den Zuschauern beigetreten
+
+This server has an initial chat delay, you will need to wait %d seconds before talking.
+== Dieser Server hat eine anfängliche Chat-Verzögerung, du musst %d Sekunden warten, bevor du sprechen kannst.
+
+'%s' rejoined current session
+== '%s' ist der aktuellen Sitzung wieder beigetreten
+
+[WARNING] You need to reconnect your dummy after the design change is done, so it can get back it's old state.
+== [WARNUNG] Du musst deinen Dummy nach der Design-Änderung neu verbinden, damit er seinen alten Status wiederherstellen kann.
+
+'%s' has left the game (%s)
+== '%s' hat das Spiel verlassen (%s)
+
+'%s' has left the game
+== '%s' hat das Spiel verlassen
+
+You do not have an ongoing conversation. Whisper to someone to start one
+== Du hast kein laufendes Gespräch. Flüstere jemandem zu, um eines zu beginnen
+
+'%s' changed name to '%s'
+== '%s' hat den Namen zu '%s' geändert
+
+Following players can't receive your message because either you or they are in local chat mode:
+== Folgende Spieler können deine Nachricht nicht empfangen, weil entweder du oder sie im lokalen Chat-Modus sind:
+
+No reason given
+== Kein Grund angegeben
+
+'%s' called vote to change server option '%s' (%s)
+== '%s' hat eine Abstimmung zur Änderung der Serveroption '%s' aufgerufen (%s)
+
+'%s' isn't an option on this server
+== '%s' ist keine Option auf diesem Server
+
+'%s' called vote to change server option '%s'
+== '%s' hat eine Abstimmung zur Änderung der Serveroption '%s' aufgerufen
+
+There's a %d second wait time between kick votes for each player please wait %d second(s)
+== Es gibt eine Wartezeit von %d Sekunden zwischen Kick-Abstimmungen für jeden Spieler, bitte warte %d Sekunde(n)
+
+Server does not allow voting to kick players
+== Der Server erlaubt keine Abstimmungen zum Kicken von Spielern
+
+Kick voting requires %d players
+== Kick-Abstimmungen erfordern %d Spieler
+
+You can't kick yourself
+== Du kannst dich nicht selbst kicken
+
+You can't kick dummies
+== Du kannst keine Dummies kicken
+
+You can't kick authorized players
+== Du kannst keine autorisierten Spieler kicken
+
+'%s' called for vote to kick you
+== '%s' hat eine Abstimmung aufgerufen, um dich zu kicken
+
+You can kick only your team member
+== Du kannst nur dein Teammitglied kicken
+
+'%s' called for vote to kick '%s' (%s)
+== '%s' hat eine Abstimmung aufgerufen, um '%s' zu kicken (%s)
+
+Server does not allow voting to move players to spectators
+== Der Server erlaubt keine Abstimmungen, um Spieler zu Zuschauern zu machen
+
+You can't move yourself
+== Du kannst dich nicht selbst bewegen
+
+You can't set dummies to spectator
+== Du kannst Dummies nicht zu Zuschauern machen
+
+You can only move your team member to spectators
+== Du kannst nur dein Teammitglied zu den Zuschauern bewegen
+
+'%s' called for vote to pause '%s' for %d seconds (%s)
+== '%s' hat eine Abstimmung aufgerufen, um '%s' für %d Sekunden zu pausieren (%s)
+
+'%s' called for vote to move '%s' to spectators (%s)
+== '%s' hat eine Abstimmung aufgerufen, um '%s' zu den Zuschauern zu bewegen (%s)
+
+You are now using the tee controller
+== Du verwendest jetzt den Tee-Controller
+
+You are no longer using the tee controller
+== Du verwendest den Tee-Controller nicht mehr
+
+Kill Protection enabled. If you really want to join the spectators, first type /kill
+== Todesschutz aktiviert. Wenn du wirklich den Zuschauern beitreten möchtest, gib zuerst /kill ein
+
+Warning you have %lld money in your wallet! (see /money)
+== Achtung, du hast %lld Geld in deiner Geldbörse! (siehe /money)
+
+Wallet kill Protection enabled. If you really want to join the spectators, first type /kill
+== Geldbörsen-Todesschutz aktiviert. Wenn du wirklich den Zuschauern beitreten möchtest, gib zuerst /kill ein
+
+You can't join the spectators while being searched by the police
+== Du kannst den Zuschauern nicht beitreten, während du von der Polizei gesucht wirst
+
+You need to wait %d seconds before killing again due to escaping
+== Du musst %d Sekunden warten, bevor du wieder neu spawnen kannst, da du polizeilich verfolgt wirst
+
+Kill Protection enabled. If you really want to kill, type /kill
+== Todesschutz aktiviert. Wenn du wirklich neu spawnen möchtest, gib /kill ein
+
+Wallet kill Protection enabled. If you really want to kill, type /kill
+== Geldbörsen-Todesschutz aktiviert. Wenn du wirklich neu spawnen möchtest, gib /kill ein
+
+Local chat mode has been disabled, automatically entered public chat
+== Lokaler Chat-Modus wurde deaktiviert, automatisch öffentlichem Chat beigetreten
+
+Automatic wallet to bank due to bank disabling
+== Automatische Übertragung von Geldbörse zu Bank aufgrund der Bankdeaktivierung
+
+You are not permitted to talk for the next %d seconds.
+== Du darfst für die nächsten %d Sekunden nicht sprechen.
+
+Your plot expired
+== Dein Grundstücksvertrag ist ausgelaufen
+
+The police have gained access to your plot in hopes of finding you
+== Die Polizei hat Zugang zu deinem Grundstück erhalten, in der Hoffnung, dich dort anzutreffen
+
+Plot %d Door Health [%d/%d]
+== Grundstück %d Tür-Leben [%d/%d]
+
+You are already logged in
+== Du bist bereits eingeloggt
+
+That account doesn't exist, please register first
+== Dieses Konto existiert nicht, bitte registriere dich zuerst
+
+This account is already logged in
+== Dieses Konto ist bereits eingeloggt
+
+This account is already logged in on another server
+== Dieses Konto ist bereits auf einem anderen Server eingeloggt
+
+This account is disabled
+== Dieses Konto ist deaktiviert
+
+You were released from jail
+== Du wurdest aus dem Gefängnis entlassen
+
+'%s' is spawnblocking. Catch him!
+== '%s' ist am Spawnblocken. Fang ihn!
+
+Police is searching you because of spawnblocking
+== Die Polizei sucht dich aufgrund des Spawnblockens
+
+[WARNING] Spawnblocking is illegal
+== [WARNUNG] Spawnblocken ist illegal
+
+Registration spam
+== Registrierungsspam
+
+Too many login fails
+== Zu viele Login-Fehlversuche
+
+Too many pin fails
+== Zu viele PIN-Fehlversuche
+
+You have been banned from the account system for %d seconds (%s)
+== Du wurdest für %d Sekunden vom Kontosystem gesperrt (%s)
+
+You are banned from the account system for the next %d seconds.
+== Du bist für die nächsten %d Sekunden vom Kontosystem gesperrt.
+
+This minigame is disabled
+== Dieses Minispiel ist deaktiviert
+
+You are not in a minigame
+== Du befindest dich nicht in einem Minispiel
+
+You are already in minigame '%s'
+== Du befindest dich bereits im Minispiel '%s'
+
+This map has no Durák lobby, you have to find your way to the table yourself
+== Diese Karte hat keine Durák-Lobby, du musst den Weg zum Tisch selbst finden
+
+'%s' left the minigame '%s'
+== '%s' hat das Minispiel '%s' verlassen
+
+'%s' joined the minigame '%s', use '/%s' to join aswell
+== '%s' ist dem Minispiel '%s' beigetreten, verwende '/%s', um ebenfalls beizutreten
+
+Say '/leave' to join the normal area again
+== Gib '/leave' ein, um wieder zum normalen Bereich zurückzukehren
+
+Type '/1vs1 <playername>' to start a fight with someone
+== Gib '/1vs1 <spielername>' ein, um einen Kampf mit jemandem zu beginnen
+
+For a stake, custom scorelimits or a kill-border use '/1vs1 <playername> <stake> <scorelimit> <killborder>'
+== Für einen Einsatz, benutzerdefinierte Punktelimits oder einen Kill-Rahmen verwende '/1vs1 <spielername> <einsatz> <punktelimit> <killrahmen>'
+
+You have to leave first in order to join another minigame
+== Du musst zuerst verlassen, um einem anderen Minispiel beizutreten
+
+The winner is '%s'
+== Der Gewinner ist '%s'
+
+You are the winner
+== Du bist der Gewinner
+
+'%s' would have timed out, but can use timeout protection now
+== '%s' hätte einen Timeout gehabt, kann aber jetzt den Timeout-Schutz nutzen
+
+You are arrested for %lld seconds
+== Du sitzt noch %lld Sekunden deine Strafe ab
+
+Your life as a gangster is over, you are free now
+== Dein Leben als Gangster ist vorbei, du bist jetzt frei
+
+Avoid policehammers for the next %lld seconds
+== Vermeide Polizeihämmer für die nächsten %lld Sekunden
+
+Entered local chat
+== Lokalem Chat beigetreten
+
+Entered public chat
+== Öffentlichem Chat beigetreten
+
+'%s' joined the game
+== '%s' ist dem Spiel beigetreten
+
+'%s' joined the spectators
+== '%s' ist den Zuschauern beigetreten
+
+You have been afk for %d seconds now. Please note that you get kicked after not playing for %d seconds.
+== Du bist jetzt seit %d Sekunden inaktiv. Bitte beachte, dass du nach %d Sekunden Inaktivität gekickt wirst.
+
+You can't pause while you are controlled by someone else
+== Du kannst nicht pausieren, während du von jemand anderem gesteuert wirst
+
+You can't pause while you are selecting a tee to control
+== Du kannst nicht pausieren, während du einen Tee zur Steuerung auswählst
+
+(doubled xp)
+== (doppelte XP)
+
+You are now level %d!
+== Du bist jetzt Level %d!
+
+Successfully logged in
+== Erfolgreich eingeloggt
+
+[WARNING] You did not set a contact, it can be used to recover your password or to get back the account after it got stolen.
+== [WARNUNG] Du hast keinen Kontakt angegeben. Es ist wichtig um dein Passwort wiederherzustellen oder das Konto zurückzubekommen, wenn es gestohlen wurde.
+
+Set a contact with '/contact <option>' to hide this message and for a free XP reward.
+== Setze einen Kontakt mit '/contact <option>', um diese Nachricht auszublenden und eine kostenlose XP-Belohnung zu erhalten.
+
+[WARNING] You did not set security pin yet. Check '/pin' for more information.
+== [WARNUNG] Du hast noch keine Sicherheits-PIN gesetzt. Überprüfe '/pin' für weitere Informationen.
+
+Your previously collected money got added to your account due to login
+== Dein zuvor gesammeltes Geld wurde aufgrund des Logins zu deinem Konto hinzugefügt
+
+Successfully logged out
+== Erfolgreich ausgeloggt
+
+The plot auction by '%s' is cancelled
+== Die Grundstücksauktion von '%s' wurde abgebrochen
+
+Your plot swap offer got cancelled
+== Dein Grundstückstauschangebot wurde abgebrochen
+
+[WARNING] Your %s expired
+== [WARNUNG] Dein %s ist abgelaufen
+
+You got unfrozen by the clan protection.
+== Du wurdest durch den Clan-Schutz aufgetaut.
+
+WARNING
+== WARNUNG
+
+You got frozen by the clan protection.
+== Du wurdest durch den Clan-Schutz eingefroren.
+
+Remove your 'Chilli.*' clantag and reconnect, or set your skin body to 'greensward'.
+== Entferne deinen 'Chilli.*' Clan-Tag und verbinde dich neu, oder setze deinen Skin auf 'greensward'.
+
+You automatically left the minigame because you were afk for too long
+== Du hast das Minispiel automatisch verlassen, weil du zu lange inaktiv warst
+
+You automatically exited the plot editor because you were afk for too long
+== Du hast den Grundstückseditor automatisch verlassen, weil du zu lange inaktiv warst
+
+You can't join a minigame while being searched by the police
+== Du kannst keinem Minispiel beitreten, während du von der Polizei gesucht wirst
+
+You can't join a minigame while being arrested
+== Du kannst keinem Minispiel beitreten, während du verhaftet bist
+
+You can't join a minigame while being frozen
+== Du kannst keinem Minispiel beitreten, während du eingefroren bist
+
+Minigame request sent, please don't move for 5 seconds
+== Minispiel-Anfrage gesendet, bitte bewege dich nicht für 5 Sekunden
+
+Your minigame request was cancelled because you are frozen
+== Deine Minispiel-Anfrage wurde abgebrochen, weil du eingefroren bist
+
+Your minigame request was cancelled because you moved
+== Deine Minispiel-Anfrage wurde abgebrochen, weil du dich bewegt hast
+
+Please move within %d seconds or you will leave the minigame
+== Bitte bewege dich innerhalb von %d Sekunden, oder du wirst das Minispiel verlassen
+
+You have %dx double-xp life left
+== Du hast noch %dx Doppel-XP-Leben übrig
+
+You have no double-xp lifes anymore (last use)
+== Du hast keine Doppel-XP-Leben mehr (letzte Verwendung)
+
+You will not receive sounds from the server while farming on a moneytile
+== Du wirst keine Sounds vom Server empfangen, während du auf einem Erfahrungsfeld farmst
+
+You will receive all sounds again
+== Du wirst wieder alle Sounds empfangen
+
+You will no longer see drawings
+== Du wirst keine Zeichnungen mehr sehen
+
+You will now see drawings again
+== Du wirst jetzt wieder Zeichnungen sehen
+
+You will no longer see money broadcasts, jail and escape timer will be shown in vote menu instead
+== Du wirst keine Geldübertragungen mehr sehen, Gefängnis- und Flucht-Timer werden stattdessen im Abstimmungsmenü angezeigt
+
+You will now see all broadcasts again
+== Du wirst jetzt wieder alle Übertragungen sehen
+
+Weapon indicator enabled
+== Waffenanzeige aktiviert
+
+Weapon indicator disabled
+== Waffenanzeige deaktiviert
+
+Your cursor will now zoom. WARNING: Does not work with dynamic camera if deadzone or follow factor are non-default.
+== Dein Cursor wird jetzt zoomen. WARNUNG: Funktioniert nicht mit dynamischer Kamera, wenn Totzone oder Folgefaktor nicht standardmäßig sind.
+
+You cursor will no longer be zoomed
+== Dein Cursor wird nicht mehr gezoomt
+
+You don't have ninjajetpack, buy it in the shop
+== Du hast kein Ninja-Jetpack, kaufe es im Shop
+
+Ninjajetpack enabled
+== Ninja-Jetpack aktiviert
+
+Ninjajetpack disabled
+== Ninja-Jetpack deaktiviert
+
+You will now respawn at your plot (TAB+kill to join at normal spawn)
+== Du wirst jetzt an deinem Grundstück respawnen (TAB+kill, um am normalen Spawn zu starten)
+
+You will no longer respawn at your plot (TAB+kill to join at plot spawn)
+== Du wirst nicht mehr an deinem Grundstück respawnen (TAB+kill, um am Grundstücks-Spawn zu starten)
+
+You will now resume from pause if your tee gets moved
+== Du wirst jetzt vom Zuschauen zurückkehren, wenn dein Tee bewegt wird
+
+You will no longer resume from pause if your tee gets moved
+== Du wirst nicht mehr vom Zuschauen zurückkehren, wenn dein Tee bewegt wird
+
+All objects of your plot have been removed
+== Alle Objekte deines Grundstücks wurden entfernt
+
+You have to be alive to edit your plot
+== Du musst am Leben sein, um dein Grundstück zu bearbeiten
+
+You have to be inside your plot to edit your plot
+== Du musst innerhalb deines Grundstücks sein, um es zu bearbeiten
+
+You can't edit your plot while living the life of a gangster.
+== Kriminelle Gangster wie du kriegen leider keinen Bausparvertrag.
+
+You are now editing your plot, switch to another weapon to exit the editor
+== Du bearbeitest jetzt dein Grundstück, wechsle zu einer anderen Waffe, um den Editor zu verlassen
+
+Changed displayed score to '%s'
+== Angezeigte Punktzahl zu '%s' geändert
+
+You are not VIP+
+== Du bist kein VIP+ Mitglied
+
+Rainbow speed has been updated to %d
+== Regenbogengeschwindigkeit wurde auf %d gesetzt
+
+%s finished in: %d minute(s) %5.2f second(s)
+== %s hat die Karte in %d Minute(n) %5.2f Sekunde(n) beendet
+
+New record: %d minute(s) %5.2f second(s) better.
+== Neuer Rekord: %d Minute(n) %5.2f Sekunde(n) besser.
+
+New record: %5.2f second(s) better.
+== Neuer Rekord: %5.2f Sekunde(n) besser.
+
+You finished with your best time.
+== Du hast mit deiner besten Zeit abgeschlossen.
+
+%d minute(s) %5.2f second(s) worse, better luck next time.
+== %d Minute(n) %5.2f Sekunde(n) schlechter, mehr Glück beim nächsten Mal.
+
+%5.2f second(s) worse, better luck next time.
+== %5.2f Sekunde(n) schlechter, mehr Glück beim nächsten Mal.
+
+Please specify the page using the reason field
+== Bitte gib die Seite im Grund-Feld an
+
+Please specify the rainbow speed using the reason field
+== Bitte gib die Regenbogengeschwindigkeit im Grund-Feld an
+
+You can't close your door because the police destroyed it
+== Du kannst deine Tür nicht schließen, da die Polizei sich Zutritt verschaffen hat
+
+%s is on a killing spree with %d blocks
+== %s hat eine Blockserie mit %d Blocks
+
+%s is on a killing spree with %d kills
+== %s hat eine Killserie mit %d Kills
+
+%s's blocking spree was ended by %s (%d blocks)
+== %ss Blockserie wurde von %s beendet (%d Blocks)
+
+%s's blocking spree was ended by %s (%d kills)
+== %ss Killserie wurde von %s beendet (%d Kills)
+
+You lost, you can wait for another round or leave the lobby using '/leave'
+== Du hast verloren, du kannst auf eine weitere Runde warten oder die Lobby mit '/leave' verlassen
+
+Too many players on police tiles [%d/%d]
+== Zu viele Spieler auf den Polizei-Feldern [%d/%d]
+
+You need to be logged in to use moneytiles.\nGet an account with '/register <name> <pw> <pw>'
+== Du musst eingeloggt sein, um Erfahrungsfelder zu nutzen.\nErstelle ein Konto mit '/register <name> <pw> <pw>'
+
+Congratulations, +20%% taser shield, current: %d%%. Use '/taser' to check later.
+== Glückwunsch, +20%% Taser-Schild, aktuell: %d%%. Verwende '/taser', um es später zu überprüfen.
+
+Congratulations, double-xp has been activated for %d lifes
+== Glückwunsch, Doppel-XP wurde für %d Leben aktiviert
+
+'%s' finished the special race!
+== '%s' hat das Spezial-Race beendet!
+
+This area is for helpers only
+== Dieser Bereich ist nur für Helfer
+
+This area is for moderators only
+== Dieser Bereich ist nur für Moderatoren
+
+This area is for admins only
+== Dieser Bereich ist nur für Admins
+
+Seems like it's your birthday! You may pick up your present at any time.
+== Es scheint, als wäre heute dein Geburtstag! Du kannst dein Geschenk jederzeit abholen.
+
+This gift is only dedicated to humans.
+== Dieses Geschenk ist nur für Menschen bestimmt.
+
+You've picked up your present already! Come back next year.
+== Du hast dein Geschenk bereits abgeholt! Komm nächstes Jahr wieder.
+
+Happy birthday! :) You have jetpack for 45 seconds
+== Herzlichen Glückwunsch zum Geburtstag! :) Du hast für 45 Sekunden Jetpack
+
+Sorry, someting is missing to get the gift.
+== Entschuldigung, es fehlt etwas, um das Geschenk zu erhalten.
+
+You need a key to enter this room, buy one in the shop
+== Du brauchst einen Schlüssel, um den Raum zu betreten, kaufe einen im Shop
+
+This area is for VIP+ only, buy it in the shop
+== Dieser Bereich ist nur für VIP+, kaufe es im Shop
+
+Your jetpack is now disabled
+== Dein Jetpack ist jetzt deaktiviert
+
+'%s' has exceeded his legal drinking limit. Catch him!
+== '%s' hat sein gesetzliches Trinklimit überschritten. Fang ihn!
+
+Police is searching you because you have exceeded your legal drinking limit
+== Die Polizei sucht dich, weil du dein gesetzliches Trinklimit überschritten hast
+
+You can not hold more than %d grogs at once
+== Du kannst nicht mehr als %d Grogs gleichzeitig halten
+
+Weapon
+== Waffe
+
+'%s' is using bonus illegally. Catch him!
+== '%s' nutzt Bonus außerhalb der gesetzlich festgelegten Toleranzgrenze. Fang ihn!
+
+Police is searching you because of illegal bonus use
+== Die Polizei sucht dich wegen Nutzung von Bonus außerhalb der gesetzlichen Toleranzgrenze
+
+[WARNING] Using bonus in no-bonus area is illegal
+== [WARNUNG] Die Nutzung von Bonus in Kein-Bonus-Bereichen ist strengstens reguliert!
+
+[WARNING] You need to enter this teleporter with your dummy within 30 seconds in order to get moved safely
+== [WARNUNG] Du musst diesen Teleporter mit deinem Dummy innerhalb von 30 Sekunden betreten, um sicher weitergeleitet zu werden!
+
+[WARNING] Your dummy has to be alive in order to get moved safely
+== [WARNUNG] Dein Dummy muss am Leben sein, um sicher weitergeleitet zu werden!
+
+'%s' has been moved to another map
+== '%s' wurde zu einer anderen Karte weitergeleitet
+
+'%s' died as a result of excessive grog consumption (%.1f‰ / %.1f‰)
+== '%s' starb infolge übermäßigen Grog-Konsums (%.1f‰ / %.1f‰)
+
+You paid %d money to '%s' to reduce your jailtime by 5 minutes
+== Du hast %d Geld an '%s' bezahlt, um deine Gefängniszeit um 5 Minuten zu reduzieren
+
+You got %d money from '%s' to reduce his jailtime by 5 minutes
+== Du hast %d Geld von '%s' erhalten, um seine Gefängniszeit um 5 Minuten zu reduzieren
+
+'%s' has been caught by '%s' (%d minutes arrest)
+== '%s' wurde von '%s' gefangen (%d Minuten Verhaftung)
+
+Grog testing results: %.1f‰ / %.1f‰
+== Grog-Testergebnisse: %.1f‰ / %.1f‰
+
+You were arrested for %d minutes by '%s'
+== Du wurdest für %d Minuten von '%s' verhaftet
+
+You already have the maximum of 50 meteors
+== Du hast bereits das Maximum von 50 Meteoren
+
+Taser shield has been used, -5%%, new current: %d%%
+== Taser-Schild wurde verwendet, -5%%, neuer aktueller Wert: %d%%
+
+Collected %lld money
+== %lld Geld aufgesammelt
+
+battery
+== Batterie
+
+portal rifle
+== Portal-Gewehr
+
+seconds
+== Sekunden
+
+minutes
+== Minuten
+
+This %s will respawn in %d %s
+== Dieser %s wird in %d %s respawnen
+
+This %s got picked up %d %s ago
+== Dieser %s wurde vor %d %s aufgesammelt
+
+You need to select an amount to deposit or withdraw.
+== Du musst einen Betrag zum Einzahlen oder Abheben auswählen.
+
+You don't have enough money in your wallet to deposit this amount.
+== Du hast nicht genug Geld in deiner Geldbörse, um diesen Betrag einzuzahlen.
+
+You deposited %d money from your wallet to your bank account.
+== Du hast %d Geld von deiner Geldbörse auf dein Bankkonto eingezahlt.
+
+You don't have enough money on your bank account to withdraw this amount.
+== Du hast nicht genug Geld auf deinem Bankkonto, um diesen Betrag abzuheben.
+
+You withdrew %d money from your bank account to your wallet.
+== Du hast %d Geld von deinem Bankkonto in deine Geldbörse abgehoben.
+
+Bye! Come back if you need something.
+== Bis dann! Komm bald wieder, wenn du etwas brauchst.
+
+Invalid item
+== Ungültiger Gegenstand
+
+You already have the highest police rank
+== Du hast bereits den höchsten Polizeirang
+
+You already have the maximum amount of bullets
+== Du hast bereits die maximale Anzahl an Kugeln
+
+You already have the maximum taser level
+== Du hast bereits das maximale Taser-Level
+
+You already have a fully filled taser battery
+== Du hast bereits eine vollständig gefüllte Taser-Batterie
+
+You already have the %s
+== Du hast bereits den/die/das %s
+
+You already have %s
+== Du hast bereits %s
+
+You need to be police level 3 or higher to get a taser license
+== Du musst Polizei Level 3 oder höher sein, um eine Taser-Lizenz zu erhalten
+
+You can not buy this VIP level while owning another one
+== Du kannst dieses VIP-Level nicht kaufen, während du ein anderes besitzt
+
+You can not buy bloody while specific cosmetics are activated
+== Du kannst Bloody nicht kaufen, während bestimmte andere Kosmetika aktiviert sind
+
+This plot is already sold to someone else
+== Dieses Grundstück ist bereits an jemand anderen verkauft
+
+You already own that plot
+== Du besitzt dieses Grundstück bereits
+
+You already own another plot
+== Du besitzt bereits ein anderes Grundstück
+
+Your level is too low, you need to be level %d to buy %s
+== Dein Level ist zu niedrig, du musst Level %d sein, um %s zu kaufen
+
+Taser battery purchase failed
+== Kauf der Taser-Batterie fehlgeschlagen
+
+You bought %s %s
+== Du hast %s %s gekauft
+
+until death
+== bis zum Tod
+
+until disconnect
+== bis Verlassen
+
+Check '/account' for more information about the expiration date
+== Überprüfe '/account' für weitere Informationen zum Ablaufdatum
+
+The plot will expire on %s
+== Das Grundstück läuft am %s ab
+
+You don't have enough money in your wallet to buy a grog.
+== Du hast nicht genug Geld in deiner Geldbörse, um einen Grog zu kaufen.
+
+You bought one grog
+== Du hast einen Grog gekauft
+
+You can't fight against yourself
+== Du kannst nicht gegen dich selbst kämpfen
+
+Invalid participant
+== Ungültiger Teilnehmer
+
+Leave the current fight in order to join another one
+== Verlasse den aktuellen Kampf, um einem anderen beizutreten
+
+Too many 1vs1 arenas, try again later
+== Zu viele 1vs1-Arenen, versuche es später erneut
+
+You successfully created a new global arena
+== Du hast erfolgreich eine neue globale Arena erstellt
+
+You invited '%s' to a fight
+== Du hast '%s' zu einem Kampf eingeladen
+
+You have been invited to a fight by '%s', type '/1vs1 %s' to join
+== Du wurdest von '%s' zu einem Kampf eingeladen, gib '/1vs1 %s' ein, um beizutreten
+
+Join the 1vs1 lobby using '/1vs1' before you accept the fight
+== Tritt der 1vs1-Lobby mit '/1vs1' bei, bevor du den Kampf annimmst
+
+You have accepted the invite by '%s'
+== Du hast die Einladung von '%s' angenommen
+
+'%s' has accepted your invite
+== '%s' hat deine Einladung angenommen
+
+'%s' won a 1vs1 round against '%s'! Final scores: %d - %d
+== '%s' hat eine 1vs1-Runde gegen '%s' gewonnen! Endstand: %d - %d
+
+'%s' left a 1vs1 round against '%s'! Current scores: %d - %d
+== '%s' hat eine 1vs1-Runde gegen '%s' verlassen! Aktueller Stand: %d - %d
+
+Select your favourite part of the map\nZoom in or out to change the size\nPlace arena by pressing SPACE
+== Wähle deinen Lieblingsteil der Karte\nZoome rein oder raus, um die Größe zu ändern\nPlatziere die Arena, indem du SPACE drückst
+
+Set first spawn positions by pressing SPACE
+== Setze die ersten Spawn-Positionen, indem du SPACE drückst
+
+Set second spawn positions by pressing SPACE
+== Setze die zweiten Spawn-Positionen, indem du SPACE drückst
+
+Choose a weapon with A/D\nToggle weapon usage by pressing SPACE\nPress SPACE on the heart to confirm
+== Wähle eine Waffe mit A/D\nSchalte die Waffennutzung um, indem du SPACE drückst\nDrücke SPACE auf das Herz, um zu bestätigen
+
+Welcome to the Durák table, %s! This seat is taken already, please try another one.
+== Willkommen am Durák-Tisch, %s! Dieser Platz ist bereits belegt, bitte versuche einen anderen.
+
+Welcome to Durák, %s! You are first, please enter a stake in the chat.
+== Willkommen bei Durák, %s! Du bist der Erste, bitte gib einen Einsatz im Chat ein.
+
+Welcome to Durák, %s! You are second, please enter the current stake of '%lld' or propose a new one.
+== Willkommen bei Durák, %s! Du bist der Zweite, bitte gib den aktuellen Einsatz von '%lld' ein oder schlage einen neuen vor.
+
+Welcome to Durák, %s! In order to participate, please enter the current stake of '%lld' in the chat.
+== Willkommen bei Durák, %s! Um teilzunehmen, gib bitte den aktuellen Einsatz von '%lld' im Chat ein.
+
+Successfully set the stake for the current round to '%lld'.
+== Einsatz für die aktuelle Runde erfolgreich auf '%lld' gesetzt.
+
+Successfully deployed your stake.
+== Dein Einsatz wurde erfolgreich gesetzt.
+
+'%s' proposed a new stake, please enter the current stake of '%lld' or propose a new one in the chat.
+== '%s' hat einen neuen Einsatz vorgeschlagen, bitte gib den aktuellen Einsatz von '%lld' ein oder schlage im Chat einen neuen vor.
+
+Successfully updated the stake for the current round to '%lld'.
+== Einsatz für die aktuelle Runde erfolgreich auf '%lld' aktualisiert.
+
+You can't currently drop that much money due to your stake
+== Du kannst derzeit nicht so viel Geld fallen lassen, aufgrund deines Einsatzes
+
+Couldn't start game, no empty team found
+== Spiel konnte nicht gestartet werden, kein leeres Team gefunden
+
+You didn't deploy your stake in time, game started without you
+== Du hast deinen Einsatz nicht rechtzeitig gesetzt, Spiel wurde ohne dich gestartet
+
+Your stake got collected: -%lld money.
+== Dein Einsatz wurde eingesammelt: -%lld Geld.
+
+'%s' is the Durák!
+== '%s' ist der Durák!
+
+'%s' successfully defended
+== '%s' hat erfolgreich verteidigt
+
+'%s' took too long and was skipped
+== '%s' hat zu lange gebraucht und wurde übersprungen
+
+'%s' couldn't defend all attacks and takes all cards
+== '%s' konnte nicht alle Angriffe abwehren und nimmt alle Karten
+
+'%s' won the game! (#%d)
+== '%s' hat das Spiel gewonnen! (#%d)
+
+'%s' won the game!
+== '%s' hat das Spiel gewonnen!
+
+Congratulations, you are not the Durák!
+== Glückwunsch, du bist nicht der Durák!
+
+Your stake got returned: +%lld money.
+== Dein Einsatz wurde zurückgegeben: +%lld Geld.
+
+You got +%lld money from others leaving the game.
+== Du hast +%lld Geld von anderen erhalten, die das Spiel verlassen haben.
+
+Change language to %s?
+== Sprache auf %s ändern?
+
+Load recent design?
+== Lade vorheriges Design?
+
+F-DDrace is a mod by fokkonaut
+== F-DDrace ist eine Mod von fokkonaut
+
+This mod is based on Teeworlds 0.7 and also incorporates features, ideas, and partial implementations
+== Diese Mod basiert auf Teeworlds 0.7 und enthält auch Funktionen, Ideen und Teil-Implementierungen
+
+from DDNet++ by ChillerDragon, DDNet, and other community projects, aswell as many custom features!
+== von DDNet++ von ChillerDragon, DDNet und anderen Community-Projekten, sowie eine eigener Funktionen!
+
+If you want to check out the code or contribute, feel free to check out F-DDrace on GitHub:
+== Wenn du den Quellcode ansehen oder dazu beitragen möchtest, schau gerne bei F-DDrace auf GitHub vorbei:
+
+For more info, say '/cmdlist' or '/credits'
+== Für weitere Informationen gib '/cmdlist' oder '/credits' ein
+
+to check a server setting say /settings and setting's name, setting names are:
+== um eine Servereinstellung zu prüfen, gib /settings und den Namen der Einstellung ein, Einstellungsnamen sind:
+
+Teams are disabled
+== Teams sind deaktiviert
+
+This team can't be locked
+== Dieses Team kann nicht gesperrt werden
+
+'%s' unlocked your team.
+== '%s' hat dein Team entsperrt.
+
+Team locking is disabled on this server
+== Team-Sperrung ist auf diesem Server deaktiviert
+
+'%s' locked your team. After the race started killing will kill everyone in your team.
+== '%s' hat dein Team gesperrt. Nachdem das Rennen begonnen hat, wird das Sterben alle in deinem Team töten.
+
+Invites are disabled
+== Einladungen sind deaktiviert
+
+Player already invited
+== Spieler bereits eingeladen
+
+Can't invite this quickly
+== Kann nicht so schnell einladen
+
+'%s' invited you to team %d.
+== '%s' hat dich zu Team %d eingeladen.
+
+'%s' invited '%s' to your team.
+== '%s' hat '%s' in dein Team eingeladen.
+
+You are running a vote please try again after the vote is done!
+== Du führst gerade eine Abstimmung durch, bitte versuche es erneut, wenn die Abstimmung beendet ist!
+
+You must join a team and play with somebody or else you can't play
+== Du musst einem Team beitreten und mit jemandem spielen, sonst kannst du nicht spielen
+
+You can't change teams while you are dead/a spectator.
+== Du kannst keine Teams wechseln, während du tot/ein Zuschauer bist.
+
+You can't change teams that fast!
+== Du kannst nicht so schnell die Teams wechseln!
+
+You can't join teams in this minigame
+== Du kannst in diesem Minispiel keinem Team beitreten
+
+This team is locked using /lock. Only members of the team can unlock it using /lock.
+== Dieses Team ist mit /lock gesperrt. Nur Mitglieder des Teams können es mit /lock entsperren.
+
+This team is locked using /lock. Only members of the team can invite you or unlock it using /lock.
+== Dieses Team ist mit /lock gesperrt. Nur Mitglieder des Teams können dich einladen oder es mit /lock entsperren.
+
+This team already has the maximum allowed size of %d players
+== Dieses Team hat bereits die maximale erlaubte Größe von %d Spielern
+
+%s joined team %d
+== %s ist Team %d beigetreten
+
+You cannot join this team at this time
+== Du kannst diesem Team zurzeit nicht beitreten
+
+You can't check your team while you are dead/a spectator.
+== Du kannst dein Team nicht überprüfen, während du tot/ein Zuschauer bist.
+
+/me is disabled on this server
+== /me ist auf diesem Server deaktiviert
+
+E-Mail
+== E-Mail
+
+Discord server
+== Discord-Server
+
+%s was killed by %s
+== %s wurde von %s getötet
+
+'%s' banned '%s' for %d seconds from voting.
+== '%s' hat '%s' für %d Sekunden vom Abstimmen ausgeschlossen.
+
+'%s' unbanned '%s' from voting.
+== '%s' hat den Abstimmungsausschluss für '%s' aufgehoben.
+
+Use /pause first then you can kill
+== Benutze zuerst /pause, dann kannst neu spawnen
+
+Only %d active players are allowed
+== Es sind nur %d aktive Spieler erlaubt
+
+All players were moved to the game
+== Alle Spieler wurden ins Spiel verschoben
+
+All players were moved to the spectators
+== Alle Spieler wurden zu den Zuschauern verschoben
+
+Authorized player forced server option '%s' (%s)
+== Autorisierter Spieler erzwang Serveroption '%s' (%s)
+
+'%s' was moved to spectator (%s)
+== '%s' wurde zum Zuschauer verschoben (%s)
+
+Listing players with "%s" in name:
+== Liste der Spieler mit "%s" im Namen:
+
+Listing all players:
+== Liste aller Spieler:
+
+You can only vote after logging in.
+== Du kannst erst nach dem Einloggen abstimmen.
+
+Wait for current vote to end before calling a new one.
+== Warte, bis die aktuelle Abstimmung endet, bevor du eine neue startest.
+
+You must wait %d seconds before making your first vote.
+== Du musst %d Sekunden warten, bevor du deine erste Abstimmung starten kannst.
+
+You must wait %d seconds before making another vote.
+== Du musst %d Sekunden warten, bevor du eine weitere Abstimmung starten kannst.
+
+You are not permitted to vote for the next %d seconds.
+== Du darfst in den nächsten %d Sekunden nicht abstimmen.
+
+There's a %d second delay between map-votes, please wait %d seconds.
+== Es gibt eine Verzögerung von %d Sekunden zwischen Map-Abstimmungen, bitte warte %d Sekunden.
+
+%s has finished and didn't go through start yet, wait for him or join another team.
+== %s hat beendet und ist noch nicht durch den Start gegangen, warte auf ihn oder tritt einem anderen Team bei.
+
+%s wants to start a new round, kill or walk to start.
+== %s möchte eine neue Runde starten, spawne neu oder gehe zum Start.
+
+Team %d started with these %d players:
+== Team %d startete mit diesen %d Spielern:
+
+Your team would've finished in: %d minute(s) %5.2f second(s). Since you had practice mode enabled your rank doesn't count.
+== Dein Team hätte in: %d Minute(n) %5.2f Sekunde(n) beendet. Da du den Übungsmodus aktiviert hattest, zählt dein Rang nicht.
+
+%s joined team 0
+== %s ist Team 0 beigetreten
+
+Everyone in your locked team was killed because '%s' killed.
+== Alle in deinem gesperrten Team wurden getötet, weil '%s' neu gespawnt ist.
+
+Everyone in your locked team was killed because '%s' died.
+== Alle in deinem gesperrten Team wurden getötet, weil '%s' gestorben ist.
+
+Silent Farm
+== Stilles Farmen
+
+Ninjajetpack
+== Ninja-Jetpack
+
+Plot Spawn
+== Grundstück-Spawn
+
+Edit Plot
+== Grundstück bearbeiten
+
+Clear Plot
+== Grundstück leeren
+
+Rainbow
+== Regenbogen
+
+Bloody
+== Bloody
+
+Atom
+== Atom
+
+Trail
+== Spur
+
+Spread Gun
+== Streupistole
+
+Rainbow Hook
+== Regenbogen-Haken
+
+Rotating Ball
+== Rotierender Ball
+
+Epic Circle
+== Epischer Kreis
+
+Lovely
+== Lovely
+
+Rainbow Name
+== Regenbogen-Name
+
+Rainbow Speed
+== Regenbogen-Geschwindigkeit
+
+Sparkle
+== Funkeln
+
+Hide Drawings
+== Zeichnungen verstecken
+
+Weapon Indicator
+== Waffen-Indikator
+
+Zoom Cursor
+== Zoom-Cursor
+
+Resume Moved
+== Resume-Moved
+
+Hide Broadcasts
+== Broadcasts verstecken
+
+Local Chat
+== Lokaler Chat
+
+No minigame
+== Kein Minispiel
+
+You are wanted by the police for %lld seconds
+== Du wirst von der Polizei für %lld Sekunden gesucht
+
+Grog permille: %.1f‰ / %.1f‰
+== Grog Promille: %.1f‰ / %.1f‰
+
+You're not logged in.
+== Du bist nicht eingeloggt.
+
+Use '/login' to see more information about your account.
+== Benutze '/login', um mehr Informationen über dein Konto zu sehen.
+
+Rented until
+== Gemietet bis
+
+Door Health
+== Tür-Leben
+
+Destroy Seconds
+== Zerstörungssekunden
+
+You have to be in a team with other tees to start
+== Du musst in einem Team mit anderen Tees sein, um zu starten
+
+You can't hit others
+== Du kannst andere nicht treffen
+
+You can hit others
+== Du kannst andere treffen
+
+You can't collide with others
+== Du kannst nicht mit anderen kollidieren
+
+You can collide with others
+== Du kannst mit anderen kollidieren
+
+You can't hook others
+== Du kannst andere nicht mit dem Haken treffen
+
+You can hook others
+== Du kannst andere mit dem Haken treffen
+
+You got +1 jump and can jump %d times now
+== Du hast +1 Sprung erhalten und kannst jetzt %d Mal springen
+
+Your team was unlocked by an unlock team tile
+== Dein Team wurde durch ein Team-Entsperrungs-Feld entsperrt
+
+You are now in a solo part
+== Du bist jetzt in einem Solo-Abschnitt
+
+You are now out of the solo part
+== Du bist jetzt außerhalb des Solo-Abschnitts
+
+Teleport gun enabled
+== Teleport-Pistole aktiviert
+
+Teleport gun disabled
+== Teleport-Pistole deaktiviert
+
+Teleport grenade enabled
+== Teleport-Granate aktiviert
+
+Teleport grenade disabled
+== Teleport-Granate deaktiviert
+
+Teleport laser enabled
+== Teleport-Laser aktiviert
+
+Teleport laser disabled
+== Teleport-Laser deaktiviert
+
+You can hammer hit others
+== Du kannst andere mit dem Hammer treffen
+
+You can't hammer hit others
+== Du kannst andere nicht mit dem Hammer treffen
+
+You can shoot others with shotgun
+== Du kannst andere mit der Schrotflinte treffen
+
+You can't shoot others with shotgun
+== Du kannst andere nicht mit der Schrotflinte treffen
+
+You can shoot others with grenade
+== Du kannst andere mit Granaten treffen
+
+You can't shoot others with grenade
+== Du kannst andere nicht mit Granaten treffen
+
+You can shoot others with rifle
+== Du kannst andere mit dem Gewehr treffen
+
+You can't shoot others with rifle
+== Du kannst andere nicht mit dem Gewehr treffen
+
+Please join a team before you start
+== Bitte tritt einem Team bei, bevor du startest
+
+For more info, say '/helptoggle'
+== Für weitere Informationen, gib '/helptoggle' ein
+
+You only have your ground jump now
+== Du hast jetzt nur noch deinen Bodensprung
+
+You can jump 1 time
+== Du kannst 1 Mal springen
+
+You can jump %d times
+== Du kannst %d Mal springen
+
+~ S H O P ~
+== ~ L A D E N ~
+
+~ P L O T - S H O P ~
+== ~ G R U N D S T Ü C K S - L A D E N ~
+
+~ B A N K ~
+== ~ B A N K ~
+
+~ T A V E R N ~
+== ~ T A V E R N E ~
+
+{vote-header}
+Oᴘᴛɪᴏɴs
+== Oᴘᴛɪᴏɴᴇɴ
+
+{vote-header}
+Wᴀɴᴛᴇᴅ Pʟᴀʏᴇʀs
+== Gᴇsᴜᴄʜᴛᴇ Sᴘɪᴇʟᴇʀ
+
+{vote-header}
+Aᴄᴄᴏᴜɴᴛ Iɴғᴏ
+== Kᴏɴᴛᴏɪɴғᴏʀᴍᴀᴛɪᴏɴᴇɴ
+
+{vote-header}
+Aᴄᴄᴏᴜɴᴛ Sᴛᴀᴛs
+== Kᴏɴᴛᴏsᴛᴀᴛɪsᴛɪᴋᴇɴ
+
+{vote-header}
+Pʟᴏᴛ
+== Gʀᴜɴᴅsᴛüᴄᴋ
+
+{vote-header}
+Vᴏᴛᴇs
+== Aʙsᴛɪᴍᴍᴜɴɢᴇɴ
+
+{vote-header}
+Aᴄᴄᴏᴜɴᴛ
+== Kᴏɴᴛᴏ
+
+{vote-header}
+Mɪsᴄᴇʟʟᴀɴᴇᴏᴜs
+== Sᴏɴsᴛɪɢᴇs
+
+{vote-header}
+Cᴏʟʟᴇᴄᴛᴀʙʟᴇs
+== Sᴀᴍᴍᴇʟᴏʙᴊᴇᴋᴛᴇ
+
+{vote-header}
+Dᴇsɪɢɴs
+== Dᴇsɪɢɴs
+
+{vote-header}
+Mɪɴɪɢᴀᴍᴇs
+== Mɪɴɪsᴘɪᴇʟᴇ
+
+{vote-header}
+Sᴄᴏʀᴇ Mᴏᴅᴇ
+== Pᴜɴᴋᴛᴇᴍᴏᴅᴜs
+
+{vote-header}
+Lᴀɴɢᴜᴀɢᴇs
+== Sᴘʀᴀᴄʜᴇɴ
+
+{vote-header}
+Aᴠᴀɪʟᴀʙʟᴇ Lᴀɴɢᴜᴀɢᴇs
+== Vᴇʀғᴜ̈ɢʙᴀʀᴇ Sᴘʀᴀᴄʜᴇɴ
+
+Rainbow will make your tee change the color very fast.
+== Regenbogen lässt deinen Tee sehr schnell die Farbe wechseln.
+
+Bloody will give your tee a permanent kill effect.
+== Bloody gibt deinem Tee einen permanenten Kill-Effekt.
+
+Police officers get help from the police bot. For more information about the specific police ranks, please say '/police'.
+== Polizisten erhalten Hilfe vom Polizei-Bot. Für weitere Informationen zu den spezifischen Polizeirängen, bitte '/police' eingeben.
+
+Using this item you can hide from other players behind bushes. If your ghost is activated you will be able to shoot plasma projectiles. How it works: '/helptoggle'
+== Mit diesem Item kannst du dich vor anderen Spielern hinter Büschen verstecken. Wenn dein Geist aktiviert ist, kannst du Plasmaprojektile schießen. Wie es funktioniert: '/helptoggle'
+
+If you have the room key you can enter the room. It's under the spawn and there is a money tile.
+== Wenn du den Raumschlüssel hast, kannst du den Raum betreten. Er befindet sich unter dem Spawn und dort gibt es ein Erfahrungsfeld.
+
+VIP Classic gives you some benefits, check '/vip'.
+== VIP Classic bietet dir einige Vorteile, siehe '/vip'.
+
+VIP+ gives you even more benefits than VIP Classic, check '/vip'.
+== VIP+ bietet dir noch mehr Vorteile als VIP Classic, siehe '/vip'.
+
+You will have shotgun if you respawn. For more information about spawn weapons, please type '/spawnweapons'.
+== Du wirst eine Schrotflinte haben, wenn du respawnst. Für weitere Informationen über Spawn-Waffen, bitte '/spawnweapons' eingeben.
+
+You will have grenade if you respawn. For more information about spawn weapons, please type '/spawnweapons'.
+== Du wirst eine Granate haben, wenn du respawnst. Für weitere Informationen über Spawn-Waffen, bitte '/spawnweapons' eingeben.
+
+You will have rifle if you respawn. For more information about spawn weapons, please type '/spawnweapons'.
+== Du wirst ein Gewehr haben, wenn du respawnst. Für weitere Informationen über Spawn-Waffen, bitte '/spawnweapons' eingeben.
+
+It will make your jetpack gun be a ninja. Toggle it using '/ninjajetpack'.
+== Es macht deine Jetpack-Waffe zu einem Ninja. Schalte es mit '/ninjajetpack' um.
+
+Taser is a rifle that freezes a player. For more information about the taser and your taser stats, plase visit '/taser'.
+== Der Taser ist ein Gewehr, das einen Spieler einfriert. Für weitere Informationen über den Taser und deine Taser-Statistiken, besuche bitte '/taser'.
+
+Taser battery is required to use the taser. Maximum amount of ammo is 100. Plase visit '/taser'.
+== Eine Taser-Batterie wird benötigt, um den Taser zu benutzen. Maximale Munitionsmenge ist 100. Bitte besuche '/taser'.
+
+With Portal Rifle you can create two portals where your cursor is, then teleport between them.
+== Mit dem Portal-Gewehr kannst du zwei Portale dort erstellen, wo dein Cursor ist, und dann zwischen ihnen teleportieren.
+
+Create portal blockers hammer and this ammo with your cursor. See '/portal' for your current amount. How it works: '/helptoggle'
+== Erstelle Portal-Blocker-Hammer und diese Munition mit deinem Cursor. Siehe '/portal' für deine aktuelle Menge. Wie es funktioniert: '/helptoggle'
+
+Welcome to the shop, %s! Press F4 to start shopping.
+== Willkommen im Shop, %s! Drücke F4, um mit dem Einkaufen zu beginnen.
+
+Are you sure you want to buy this item?
+== Bist du sicher, dass du diesen Gegenstand kaufen möchtest?
+
+You canceled the purchase.
+== Du hast den Kauf abgebrochen.
+
+You own this item until you die.
+== Du besitzt diesen Gegenstand, bis du stirbst.
+
+You own this item until\nyou disconnect.
+== Du besitzt diesen Gegenstand, bis\ndu dich abmeldest.
+
+You own this item forever.
+== Du besitzt diesen Gegenstand für immer.
+
+You own this item for 30 days.
+== Du besitzt diesen Gegenstand für 30 Tage.
+
+You own this item for 20 days.
+== Du besitzt diesen Gegenstand für 20 Tage.
+
+You own this item for 7 days.
+== Du besitzt diesen Gegenstand für 7 Tage.
+
+You own this item for 5 days.
+== Du besitzt diesen Gegenstand für 5 Tage.
+
+Welcome to the shop!\n\nBy shooting to the right you go one site forward, and by shooting left you go one site back.
+== Willkommen im Shop!\n\nDurch Schießen nach rechts gehst du eine Seite vor, und durch Schießen nach links gehst du eine Seite zurück.
+
+for sale
+== zu verkaufen
+
+discount
+== Rabatt
+
+If you want to buy an item, press F3
+== Wenn du einen Gegenstand kaufen möchtest, drücke F3
+
+Welcome to the tavern, %s! Press F4 to buy a grog.
+== Willkommen in der Taverne, %s! Drücke F4, um einen Grog zu kaufen.
+
+Are you sure you want to buy a grog?
+== Bist du sicher, dass du einen Grog kaufen möchtest?
+
+Press F3 to confirm your assignment.
+== Drücke F3, um deinen Auftrag zu bestätigen.
+
+Welcome to the tavern!\n\nIf you would like to buy a grog for %d money, please press F3.
+== Willkommen in der Taverne!\n\nWenn du einen Grog für %d Geld kaufen möchtest, drücke bitte F3.
+
+Welcome to the bank, %s! Press F4 to manage your bank account.
+== Willkommen bei der Bank, %s! Drücke F4, um dein Bankkonto zu verwalten.
+
+Are you sure that you want to deposit %d money from your wallet to your bank account?
+== Bist du sicher, dass du %d Geld von deiner Geldbörse auf dein Bankkonto einzahlen möchtest?
+
+Are you sure that you want to withdraw %d money from your bank account to your wallet?
+== Bist du sicher, dass du %d Geld von deinem Bankkonto auf deine Geldbörse auszahlen möchtest?
+
+You can't use the bank without an account. Check '/account'.
+== Du kannst die Bank nicht ohne ein Konto nutzen. Überprüfe '/account'.
+
+You cancelled the assignment.
+== Du hast den Vorgang abgebrochen.
+
+Welcome to the bank!\n\nThis feature is currently disabled and your money is instantly saved.
+== Willkommen bei der Bank!\n\nDiese Funktion ist derzeit deaktiviert und dein Geld wird sofort gespeichert.
+
+Welcome to the bank!\n\nPlease select your option:\nF3: Deposit (+)\nF4: Withdraw (-).\n\nOnce you selected an option, shoot to the right to go one step forward, and shoot left to go one step back.
+== Willkommen bei der Bank!\n\nBitte wähle deine Option:\nF3: Einzahlen (+)\nF4: Abheben (-).\n\nNachdem du eine Option gewählt hast, schieße nach rechts, um einen Schritt vorwärts zu gehen, und schieße nach links, um einen Schritt zurück zu gehen.
+
+D E P O S I T
+== E I N Z A H L E N
+
+W I T H D R A W
+== A B H E B E N
+
+Everything (%d)
+== Alles (%d)
+
+{durak-name}
+Waiting…
+== Warten…
+
+{durak-name}
+Players - %d/%d
+== Spieler - %d/%d
+
+{durak-name}
+Select attack
+== Angriff wählen
+
+{durak-name}
+Attack!
+== Angreifen!
+
+{durak-name}
+Defend
+== Verteidigen
+
+{durak-name}
+Pass!
+== Schieben!
+
+{durak-name}
+End move
+== Zug beenden
+
+{durak-name}
+Take cards
+== Karten nehmen
+
+{durak-name}
+Passed…
+== Geschoben…
+
+{durak-name}
+Next move: %ds
+== Weiter in: %ds
+
+You are now in a safe area
+== Du bist nun in einem sicheren Bereich
+
+You are no longer in a safe area
+== Du bist nicht mehr in einem sicheren Bereich
+
+AntiPing enabled (only for 'cl_antiping 1', may cause unwanted side-effects)
+== AntiPing aktiviert (nur mit 'cl_antiping 1' nutzen, ansonsten möglicherweise Fehler)
+
+AntiPing disabled
+== AntiPing deaktiviert
+
+High Bandwidth mode enabled (full 50 snapshots instead of 25 per second)
+== Hohe Bandbreite Modus aktiviert (volle 50 Snapshots statt 25 pro Sekunde)
+
+High Bandwidth mode disabled
+== Hohe Bandbreite Modus deaktiviert
+
+AntiPing weapons (only for 'cl_antiping 1')
+== AntiPing Waffen (nur mit 'cl_antiping 1')
+
+High Bandwidth mode
+== Hohe Bandbreite Modus 
+
+{vote-header}
+Tᴇᴄʜɴɪᴄᴀʟ
+== Tᴇᴄʜɴɪsᴄʜᴇs
+
+[WARNING] Place this tile from switch layer
+== [WARNUNG] Platziere dieses Feld vom Switch Layer
+
+[WARNING] Empty toggle mask tile. Place one of the following tiles from game/front layer too: 
+== [WARNUNG] Leeres Toggle Mask Feld. Platziere ebenfalls eine der folgenden Felder vom Game/Front Layer:
+
+Humans limit reached.
+== Humans Limit erreicht.
+
+Congratulations, you got the immunity flag.
+== Glückwunsch, du hast die Immunity Flag aufgesammelt.
+
+The blue flag defends against infection.
+== Die blaue Flagge beschützt dich vor Infektionen.
+
+You can drop it by pressing F3.
+== Du kannst sie fallen lassen indem du F3 drückst.
+
+Saving player sessions is currently disabled by an admin
+== Sitzungs-Speicherung ist zur Zeit durch einen Admin deaktiviert
+
+Saving player session on disconnect enabled
+== Sitzungs-Speicherung beim Trennen aktiviert
+
+Saving player session on disconnect disabled
+== Sitzungs-Speicherung beim Trennen deaktiviert
+
+Save player session
+== Sitzungs-Speicherung
+
+Please enter the tile index into the chat (0-255)
+== Bitte gib den Feld-Index in den Chat ein (0-255)
+
+Entering index aborted
+== Index-Eingabe abgebrochen
+
+The entered value is not a valid number
+== Der eingegebene Wert ist keine gültige Zahl
+
+'%s' has been arrested for using a suspicious client (%d seconds arrest)
+== '%s' wurde wegen der Nutzung eines verdächtigen Clients verhaftet (%d Sekunden Haft)
+
+You were arrested for %d seconds for using a suspicious client. Try using official DDNet client or disable dummy hammerfly.
+== Du wurdest für %d Sekunden wegen der Verwendung eines verdächtigen Clients verhaftet. Versuche den offiziellen DDNet-Client zu verwenden oder Dummy-Hammerfly zu deaktivieren.
+
+Invalid stake, please enter a value between 0 and 10.000.000
+== Ungültiger Einsatz. Bitte gebe einen Wert zwischen 0 und 10.000.000 ein
+
+This fight requires a stake of %lld money. Accept by typing '/1vs1 %s %lld'
+== Für diesen Kampf ist ein Einsatz von %lld erforderlich. Nimm an, indem du '/1vs1 %s %lld' eingibst.
+
+Fight cancelled, someone couldn't pay the stake.
+== Kampf abgebrochen, jemand konnte den Einsatz nicht bezahlen.
+
+You won this 1vs1 round! Your earnings: +%lld money.
+== Du hast diese 1vs1-Runde gewonnen! Dein Gewinn: +%lld Geld.
